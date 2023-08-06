@@ -31,7 +31,7 @@ print(ans)
 Output
 
 ```
-Choose an Option
+Choose an Option:
 > Option 1
   Option 2
 
