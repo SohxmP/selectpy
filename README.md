@@ -19,11 +19,12 @@ Adding The Select Menu And Getting The Result
 
 ```python
 ans = select(opts=["Option 1", "Option 2"],
-              msg="Choose an Option:",
-              c=">",
-              cursor_color="#ff0000",
-              selected_color="#ff0000",
-              unselected_color="#ffffff")
+             msg="Choose an Option:",
+             c=">",
+             cursor_color="#ff0000",
+             selected_color="#ff0000",
+             unselected_color="#ffffff")
+
 print(ans)
 ```
 
