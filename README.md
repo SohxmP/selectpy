@@ -39,8 +39,8 @@ Option 1
 ```
 
 Navigation For The Selection Menu:
-Up Arrow Key
-Down Arrow Key
-Enter
-Escape
-Ctrl + C
+- Up Arrow Key
+- Down Arrow Key
+- Enter
+- Escape
+- Ctrl + C
