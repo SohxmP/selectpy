@@ -38,10 +38,13 @@ Choose an Option:
 Option 1
 ```
 
+
 Navigation For The Selection Menu:
 
-- Up Arrow Key
-- Down Arrow Key
+- Up Arrow
+- Down Arrow
 - Enter
 - Escape
 - Ctrl + C
+
+Thats it!
